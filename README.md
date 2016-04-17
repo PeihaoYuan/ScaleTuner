@@ -1,3 +1,2 @@
 # ScaleTuner
-Program With Comments: Shows the codes from read data to comparison.\n
-ScaleTuner: QT program
+Program With Comments: Codes from read data to comparison & ScaleTuner Folder: QT program
